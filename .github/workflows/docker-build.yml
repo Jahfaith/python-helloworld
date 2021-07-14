@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: jahfaith/python-helloworld:v1.0.0
+          tags: jahfaith/python-helloworld:latest
